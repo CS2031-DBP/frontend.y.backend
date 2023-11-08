@@ -1,1 +1,1 @@
-# hck2-sol
+# Proyecto ejemplo
